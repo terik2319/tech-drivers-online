@@ -18,7 +18,7 @@ export default function Home() {
       }}
     >
       <h1 style={{ fontSize: "2.5rem", margin: 0, letterSpacing: "0.05em" }}>
-        TECH DRIVER ONLINE
+        TECH DRIVERS ONLINE
       </h1>
       <p style={{ color: "#9aa4b2", maxWidth: 480, margin: 0 }}>
         Simulador FTCSim en el navegador. Build WebGL generado con Unity 6.

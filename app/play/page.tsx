@@ -76,7 +76,7 @@ export default function PlayPage() {
       />
       {!loaded && !error && (
         <p style={{ color: "#9aa4b2" }}>
-          Cargando TECH DRIVER... {Math.round(progress * 100)}%
+          Cargando TECH DRIVERS... {Math.round(progress * 100)}%
         </p>
       )}
       {error && <p style={{ color: "#ff6b6b" }}>{error}</p>}

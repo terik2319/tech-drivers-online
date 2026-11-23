@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TECH DRIVER ONLINE",
+  title: "TECH DRIVERS ONLINE",
   description: "Simulador FTCSim (Unity WebGL) jugable desde el navegador.",
 };
 
